@@ -50,4 +50,7 @@ let t1 = Temprature()
 t1.setTemperature(celcius: 25.0)
 t1.convertDegreeToFahrenhite()
 
+t1.setTemperature(celcius: 100.0)
+t1.convertDegreeToFahrenhite()
+
 
